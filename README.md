@@ -13,11 +13,17 @@ The application exposes multiple routes to:
 ## 📁 Project Structure
 
 express-modules-app/
+
 ├── index.js
+
 ├── read.js
+
 ├── Data.txt
+
 ├── package.json
+
 ├── package-lock.json
+
 └── node_modules/ (not pushed to GitHub)
 
 
@@ -97,7 +103,8 @@ Example Response:
 }
 ```
 
-### 📌 Note: IP address may vary due to DNS resolution.
+ 📌 Note: IP address may vary due to DNS resolution.
+ 
 
 ## 🧩 Technologies Used
 
